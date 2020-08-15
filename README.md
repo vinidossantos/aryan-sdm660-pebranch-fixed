@@ -33,4 +33,4 @@ lavender (Redmi Note 7) and platina (Mi 8 Lite)
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# This fork has the following commits: Xiaomi parts without "#" | No clang
+# This fork has the following commits: Xiaomi parts without "#" | No clang | updated coral fp to august
